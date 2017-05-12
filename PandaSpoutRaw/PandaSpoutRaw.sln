@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaSpoutRaw.Plugins", "PandaSpoutRaw.Plugins.csproj", "{4D88F14F-7318-5E68-2305-2499F2F47125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaSpoutRaw", "PandaSpoutRaw.csproj", "{CAACB288-6B1D-258D-034F-75F986502360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaSpoutRaw.Editor.Plugins", "PandaSpoutRaw.Editor.Plugins.csproj", "{209EDE64-404C-B0E2-B5F4-74C07D9101D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D88F14F-7318-5E68-2305-2499F2F47125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D88F14F-7318-5E68-2305-2499F2F47125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D88F14F-7318-5E68-2305-2499F2F47125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D88F14F-7318-5E68-2305-2499F2F47125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAACB288-6B1D-258D-034F-75F986502360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAACB288-6B1D-258D-034F-75F986502360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAACB288-6B1D-258D-034F-75F986502360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAACB288-6B1D-258D-034F-75F986502360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209EDE64-404C-B0E2-B5F4-74C07D9101D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209EDE64-404C-B0E2-B5F4-74C07D9101D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209EDE64-404C-B0E2-B5F4-74C07D9101D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209EDE64-404C-B0E2-B5F4-74C07D9101D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
